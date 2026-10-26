@@ -115,6 +115,8 @@ code --version      # Should show VSCode is working
 
 ### Create files and folders for your Flask Project
 
+For detailed steps for bash scripting refer to [Bash Scripting Guide](bash_scripting_guide.md) for additional step by step details in completing this part of the guided project. 
+
 1. Make a folder for all your working documents like photoshop \*.psd files, developer documentation etc.
 
 ```bash
